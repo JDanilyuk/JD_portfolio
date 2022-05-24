@@ -1,0 +1,11 @@
+$light-grey: #CDCDCD;
+$dark-grey: #888888;
+$white: #fff;
+
+%title {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 130%;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+}
